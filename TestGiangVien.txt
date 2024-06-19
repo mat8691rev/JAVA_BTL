@@ -1,0 +1,14 @@
+GV001;Trần Văn A;nữ;Tiến Sỹ;Giảng Viên;0000001;A@gmail.com;5;CNTT;Công Nghệ Thông Tin
+GV002;Trần Văn B;nữ;Tiến Sỹ;Giảng Viên;0000002;B@gmail.com;5;CNTT;Công Nghệ Thông Tin
+GV003;Trần Văn C;nam;Tiến Sỹ;Giảng Viên;0000003;C@gmail.com;5;CNTT;Công Nghệ Thông Tin
+GV004;Trần Văn D;nữ;Tiến Sỹ;Giảng Viên;0000004;D@gmail.com;5;CNTT;Công Nghệ Thông Tin
+GV005;Trần Văn E;nam;Tiến Sỹ;Giảng Viên;0000005;E@gmail.com;5;HTTT;Hệ Thống Thông Tin
+GV006;Trần Văn F;nam;Tiến Sỹ;Giảng Viên;0000006;F@gmail.com;5;HTTT;Hệ Thống Thông Tin
+GV007;Trần Văn G;nam;Thạc Sỹ;Giảng Viên;0000007;G@gmail.com;5;HTTT;Hệ Thống Thông Tin
+GV008;Trần Văn H;nữ;Thạc Sỹ;Giảng Viên;0000008;H@gmail.com;5;HTTT;Hệ Thống Thông Tin
+GV009;Trần Văn I;nữ;Thạc Sỹ;Giảng Viên;0000009;I@gmail.com;5;HTTT;Hệ Thống Thông Tin
+GV010;Trần Văn K;nam;Thạc Sỹ;Giảng Viên;000010;K@gmail.com;5;HTTT;Hệ Thống Thông Tin
+GV011;Trần Văn L;nữ;Thạc Sỹ;Giảng Viên;000011;L@gmail.com;5;DTVT;Điện Tử Viễn Thông
+GV012;Trần Văn M;nam;Thạc Sỹ;Giảng Viên;000012;M@gmail.com;5;DTVT;Điện Tử Viễn Thông
+GV013;Trần Văn N;nam;Thạc Sỹ;Giảng Viên;000013;N@gmail.com;5;DTVT;Điện Tử Viễn Thông
+GV014;Trần Văn O;nam;Thạc Sỹ;Giảng Viên;000014;O@gmail.com;5;DTVT;Điện Tử Viễn Thông

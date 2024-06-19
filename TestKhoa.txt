@@ -1,0 +1,4 @@
+CNTT;Công Nghệ Thông Tin
+DTVT;Điện Tử Viễn Thông
+HTTT;Hệ Thống Thông Tin
+ROBO;Công Nghệ Robot

@@ -1,0 +1,8 @@
+BNS001;01/02/2023;01/07/2023;Tái bản lần 1;Tái bản lần đầu
+BNS002;01/07/2023;01/01/2024;Tái bản lần 2;Cập nhật nội dung
+BNS003;01/06/2023;01/01/2024;Hoàn thiện bản in;Hoàn thiện sách
+BNS004;01/01/2024;01/06/2024;Tái bản lần 1;Chỉnh lý bổ sung
+BNS005;01/01/2020;01/06/2020;Tái bản lần 2;Cập nhật sửa đổi
+BNS006;15/03/2021;15/09/2023;Tái bản lần 3;Bổ sung nội dung mới
+BNS007;20/05/2022;10/10/2022;Tái bản lần 2;Chỉnh sửa lỗi phát sinh
+BNS008;10/07/2023;01/12/2023;Tái bản lần 4;Cập nhật thường niên

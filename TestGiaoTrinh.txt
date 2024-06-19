@@ -1,0 +1,4 @@
+GT01;Giáo Trình Tin Học Cơ Sở;INT001;GV001;[GV003,GV004];CNTT;Công Nghệ Thông Tin;1/1/2023;1/1/2024;[BNS001,BNS002];true;true
+GT02;Giáo Trình Lập Trình Hướng Đối Tượng;INT002;GV005;[GV006];HTTT;Hệ Thống Thông Tin;1/1/2023;1/12/2024;[BNS003,BNS004];false;false
+GT03;Giáo Trình Lập Trình Web;INT003;GV005;[GV007,GV008,GV009];HTTT;Hệ Thống Thông Tin;1/1/2020;1/12/2023;[BNS005,BNS006,BNS007];true;true
+GT04;Giáo Trình Lập Trình Android;INT004;GV011;[GV012];DTVT;Điện Tử Viễn Thông;1/1/2022;1/12/2023;[BNS008];true;true

@@ -1,0 +1,4 @@
+INT001;Lập trình cơ bản;3;750000;CNTT;Công Nghệ Thông Tin
+INT002;Lập trình hướng đối tượng;4;950000;HTTT;Hệ Thống Thông Tin
+INT003;Lập trình Web;4;950000;HTTT;Hệ Thống Thông Tin
+INT004;Lập Trình Di Động;3;750000;DTVT;Điện Tử Viễn Thông
